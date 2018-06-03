@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron" style="text-align:center;">
+    
+        <table style="margin:auto; width: 100%">
+            <tr>
+                <td><img src="../../imagenes/etsisi.png" height="100" width="100"></td>
+                <td><h1><b>Menú</b></h1></td>
+                <td><img src="../../imagenes/upm.png" height="100" width="100"></td>
+            </tr>
+        </table>
+
+        <br />
+
+        <table style="margin:auto">
+            <tr>
+                <td><img src="../../imagenes/curso.png" height="100" width="100"></td>
+                <td><img src="../../imagenes/grupo.png" height="100" width="100"></td>
+                <td><img src="../../imagenes/docencia.png" height="100" width="100"></td>
+            </tr>
+            <tr>
+                <td>@Html.ActionLink("Cursos", "Index", "Cursos")</td>
+                <td>@Html.ActionLink("Grupo Clase", "Index", "GrupoClases")</td>
+                <td>@Html.ActionLink("Docencia", "Index", "AsignacionDocentes")</td>
+            </tr>
+            <tr>
+                <td><img src="../../imagenes/matricula.png" height="100" width="100"></td>
+                <td><img src="../../imagenes/evaluacion.png" height="100" width="100"></td>
+                <td><img src="../../imagenes/mi_evaluacion.png" height="100" width="100"></td>
+            </tr>
+            <tr>
+                <td>@Html.ActionLink("Evaluaciones", "Index", "Evaluaciones")</td>
+                <td>@Html.ActionLink("Mis Evaluaciones", "Index", "MisEvaluaciones")</td>
+                <td>@Html.ActionLink("Matricula", "Index", "Matriculas")</td>
+            </tr>
+        </table>
+
+</div>
+
+

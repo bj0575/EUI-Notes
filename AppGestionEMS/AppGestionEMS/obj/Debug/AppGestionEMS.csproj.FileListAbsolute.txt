@@ -1,0 +1,542 @@
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\csc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\vbc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Owin.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\WebGrease.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Helpers.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Mvc.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Optimization.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Razor.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.dll
+c:\users\alumno\documents\visual studio 2015\Projects\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.pdb
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.pdb
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\ApplicationInsights.config
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\csc.exe
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\vbc.exe
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll.config
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.pdb
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Owin.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\WebGrease.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.pdb
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Razor.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.ModifyUsers.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateCursos.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateGrupoClase.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente3.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateMatriculas.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones.resources
+C:\Users\alumno\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones2.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\ApplicationInsights.config
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\csc.exe
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\vbc.exe
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll.config
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.pdb
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Owin.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\WebGrease.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.pdb
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.ModifyUsers.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateCursos.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateGrupoClase.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente3.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateMatriculas.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones2.resources
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csproj.GenerateResource.Cache
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.dll
+C:\Users\Ivan Pulido\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\ApplicationInsights.config
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\csc.exe
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\vbc.exe
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll.config
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\WebGrease.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Razor.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csprojResolveAssemblyReference.cache
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.ModifyUsers.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateCursos.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateGrupoClase.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente3.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateMatriculas.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones2.resources
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csproj.GenerateResource.Cache
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.dll
+C:\Users\bj0575\Desktop\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\ApplicationInsights.config
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\csc.exe
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\vbc.exe
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll.config
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\AppGestionEMS.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\EntityFramework.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Owin.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\WebGrease.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.Web.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Helpers.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Mvc.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Optimization.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.Razor.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\System.Web.WebPages.Razor.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Antlr3.Runtime.pdb
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Newtonsoft.Json.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\EntityFramework.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\EntityFramework.SqlServer.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.Razor.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csprojResolveAssemblyReference.cache
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.ModifyUsers.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateCursos.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateGrupoClase.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateAsignacionDocente3.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateMatriculas.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.Migrations.CreateEvaluaciones2.resources
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.csproj.GenerateResource.Cache
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.dll
+C:\Users\bj0575\Desktop\AppGestionEMS-20180601T181945Z-001\AppGestionEMS\AppGestionEMS\obj\Debug\AppGestionEMS.pdb
